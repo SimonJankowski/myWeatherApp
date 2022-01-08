@@ -77,7 +77,7 @@ function App() {
             </div>
           </div>
         ) : ('')}
-        {/* <footer className='footer'><span>&copy; Simon Jankowski</span></footer> */}
+        
       </main>
       <footer className='footer'><span>&copy; Simon Jankowski</span></footer>
     </div>
